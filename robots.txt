@@ -1,0 +1,3 @@
+User-agent: *
+Allow: kevin_foster_resume_public.pdf
+Sitemap: https://fostes.org/sitemap.xml
